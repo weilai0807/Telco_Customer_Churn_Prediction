@@ -1,2 +1,7 @@
-# Telco_Customer_Churn_Prediction
-Telco Customer Churn Prediction using Machine Learning and Deep Learning
+# Telco Customer Churn Prediction using Machine Learning and Deep Learning
+## Business Understanding
+## Data Understanding
+## Data Preparation
+## Modeling
+## Evaluation
+## Deployment
